@@ -14,6 +14,17 @@ First generate a workspace, then upgrade all the apps.
 Cheers,
 Lee Boonstra
 
+----
+
 Twitter: ladysign
 Web: http://www.ladysign-apps.com
 SpeakerDeck: http://www.speakerdeck.com/savelee
+
+----
+
+## Overview
+
+* *barfinder* - A combined classic and modern app
+* *dinmu* - My Sencha Touch Weather Utility app migrated from Sencha Touch to Ext JS 6.
+* *playstation* - An Ext JS 6 (classic) app, with a custom theme
+* *senchacon* - An Ext JS 5 app with profiles, responsive design and profile switcher, migrated to Ext JS 6
