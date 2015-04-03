@@ -1,0 +1,2 @@
+# senchcon-theme - Read Me
+
